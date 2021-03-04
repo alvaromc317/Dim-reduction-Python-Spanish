@@ -8,6 +8,6 @@ En este curso veremos qué es la maldición de la dimensión, y cómo solucionar
 1. Las técnicas de filtro consisten básicamente en utilizar algún criterio para seleccionar, de entre las variables del conjunto de datos, aquellas más importantes antes de construir el modelo.
 2. Las técnicas basadas en proyecciones buscan construir nuevas variables que expliquen la mayor cantidad de información posible usando el menor número de variables. La técnica de proyección más conocida es el análisis e componentes principales (principal component analysis, en inglés)
 
-Estudiaremos todo esto utilizando dos conjuntos de datos, uno de un problema de regresión basado en el precio de las casas en boston, y otro de un problema de clasificación tumoral de cancer de mama.
+Estudiaremos todo esto utilizando dos conjuntos de datos, uno de un problema de regresión basado en el precio de las casas en boston, y otro de un problema de clasificación tumoral de cancer de mama. A lo largo de la libreta encontrareis ejercicios que afianzarán los conceptos que acabemos de ver. Las soluciones a estos ejercicios están en la libreta asociada 'dim_reduction_intro_soluciones'
 
 Así que... ¡Empecemos!
